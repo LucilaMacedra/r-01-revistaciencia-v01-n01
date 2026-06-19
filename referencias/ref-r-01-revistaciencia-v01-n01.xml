@@ -91,4 +91,91 @@
       <pub-id pub-id-type="doi">10.3917/criti.246.0425</pub-id>
     </element-citation>
   </ref>
+  <ref id="2557-ORTIZ1988">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Ortiz</surname>
+          <given-names>R.</given-names>
+        </name>
+      </person-group>
+      <article-title>Cultura brasileira e identidade nacional</article-title>
+      <source>Brasiliense</source>
+      <year>1988</year>
+      <volume>12</volume>
+      <issue>4</issue>
+      <fpage>15</fpage>
+      <lpage>30</lpage>
+      <pub-id pub-id-type="doi">10.1590/S0103-40141988000200003</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2558-SHANNON1948">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Shannon</surname>
+          <given-names>C. E.</given-names>
+        </name>
+      </person-group>
+      <article-title>A Mathematical Theory of Communication</article-title>
+      <source>Bell System Technical Journal</source>
+      <year>1948</year>
+      <volume>27</volume>
+      <issue>3</issue>
+      <fpage>379</fpage>
+      <lpage>423</lpage>
+      <issn>0005-8580</issn>
+      <pub-id pub-id-type="doi">10.1002/j.1538-7305.1948.tb01338.x</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2559-BOURDIEU1979">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Bourdieu</surname>
+          <given-names>P.</given-names>
+        </name>
+      </person-group>
+      <article-title>Les trois états du capital culturel</article-title>
+      <source>Actes de la recherche en sciences sociales</source>
+      <year>1979</year>
+      <volume>30</volume>
+      <issue>1</issue>
+      <fpage>3</fpage>
+      <lpage>6</lpage>
+      <pub-id pub-id-type="doi">10.3406/arss.1979.2654</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2560-SWALES1990">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Swales</surname>
+          <given-names>J.</given-names>
+        </name>
+      </person-group>
+      <article-title>Genre analysis and academic writing</article-title>
+      <source>English for Specific Purposes</source>
+      <year>1990</year>
+      <volume>9</volume>
+      <issue>1</issue>
+      <fpage>58</fpage>
+      <lpage>65</lpage>
+      <pub-id pub-id-type="doi">10.1016/0889-4906(90)90021-3</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2561-1977">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Eco</surname>
+          <given-names>U.</given-names>
+        </name>
+      </person-group>
+      <source>Cómo se hace una tesis</source>
+      <publisher-name>Gedisa</publisher-name>
+      <publisher-loc>Barcelona</publisher-loc>
+      <year>1977</year>
+    </element-citation>
+  </ref>
 </ref-list>
