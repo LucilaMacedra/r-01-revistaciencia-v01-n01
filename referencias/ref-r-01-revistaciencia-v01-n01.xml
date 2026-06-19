@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref-list xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ref id="0-HARDIN1968">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Hardin</surname>
+          <given-names>Garrett</given-names>
+        </name>
+      </person-group>
+      <article-title>The Tragedy of the Commons</article-title>
+      <source>Science</source>
+      <year>1968</year>
+      <volume>162</volume>
+      <issue>3859</issue>
+      <fpage>1243</fpage>
+      <lpage>1248</lpage>
+      <issn>0036-8075</issn>
+      <pub-id pub-id-type="doi">10.1126/science.162.3859.1243</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2553-MERTON1968">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Merton</surname>
+          <given-names>Robert K.</given-names>
+        </name>
+      </person-group>
+      <article-title>The Matthew Effect in Science</article-title>
+      <source>Science</source>
+      <year>1968</year>
+      <volume>159</volume>
+      <issue>3810</issue>
+      <fpage>56</fpage>
+      <lpage>63</lpage>
+      <pub-id pub-id-type="doi">10.1126/science.159.3810.56</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2554-CANDIDO1972">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Candido</surname>
+          <given-names>A.</given-names>
+        </name>
+      </person-group>
+      <article-title>A literatura e a formação do homem</article-title>
+      <source>Ciência e Cultura</source>
+      <year>1972</year>
+      <volume>24</volume>
+      <issue>9</issue>
+      <fpage>803</fpage>
+      <lpage>809</lpage>
+    </element-citation>
+  </ref>
+  <ref id="2555-SANTOS2002">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Santos</surname>
+          <given-names>Boaventura de Sousa</given-names>
+        </name>
+      </person-group>
+      <article-title>Para uma sociologia das ausências e uma sociologia das emergências</article-title>
+      <source>Revista Crítica de Ciências Sociais</source>
+      <year>2002</year>
+      <volume>63</volume>
+      <issue>237-280</issue>
+      <fpage>237</fpage>
+      <lpage>280</lpage>
+      <issn>0254-1106</issn>
+      <pub-id pub-id-type="doi">10.4000/rccs.1285</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2556-DERRIDA1967">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Derrida</surname>
+          <given-names>J.</given-names>
+        </name>
+      </person-group>
+      <article-title>Structure, signe et jeu dans le discours des sciences humaines</article-title>
+      <source>Critique</source>
+      <year>1967</year>
+      <volume>23</volume>
+      <issue>246</issue>
+      <fpage>425</fpage>
+      <lpage>442</lpage>
+      <pub-id pub-id-type="doi">10.3917/criti.246.0425</pub-id>
+    </element-citation>
+  </ref>
+</ref-list>
