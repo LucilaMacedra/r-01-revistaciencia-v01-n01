@@ -100,14 +100,3 @@ Este estudio aporta evidencia empírica sobre la naturaleza multidimensional de 
 
 Las implicancias para la política universitaria son claras: las estrategias de virtualización o hibridación de la enseñanza deben acompañarse de programas integrales que aborden simultáneamente la provisión de equipamiento, la conectividad, el desarrollo de habilidades digitales y la adaptación de las prácticas pedagógicas a contextos de acceso heterogéneo. De lo contrario, la digitalización de la educación superior corre el riesgo de convertirse en un mecanismo adicional de reproducción de la desigualdad.
 
-Referencias
-
-CEPAL (2021). *Tecnologías digitales para un nuevo futuro* (LC/TS.2021/43). Comisión Económica para América Latina y el Caribe.
-
-Hargittai, E. (2002). Second-Level Digital Divide: Differences in People's Online Skills. *First Monday*, 7(4). https://doi.org/10.5210/fm.v7i4.942
-
-van Deursen, A. J. A. M. y van Dijk, J. A. G. M. (2019). The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access. *New Media & Society*, 21(2), 354-375. https://doi.org/10.1177/1461444817715282
-
-van Dijk, J. A. G. M. (2020). *The Digital Divide*. Polity Press.
-
-Warschauer, M. (2004). *Technology and Social Inclusion: Rethinking the Digital Divide*. The MIT Press.

@@ -25,6 +25,7 @@
 
 % --- BIBLIOGRAFÍA ---
 \usepackage[style=apa,backref=true,backend=biber]{biblatex}
+\input{/home/lucila/.gbpublisher/biblatex/apa-config.tex}
 
 
 % --- PÁGINA ---
@@ -216,10 +217,13 @@ linktoc=all,breaklinks=True,bookmarksopen=True,bookmarksnumbered=True}
 
 \renewcommand{\articuloidiomaxml}{es}
 \renewcommand{\articulotitulo}{Las deudas pendientes de la digitalización en América Latina}
-\renewcommand{\articuloautores}{Macedra Lucila}
+\renewcommand{\articuloautores}{Luciana Ferrer}
 \renewcommand{\articulotipo}{EDITORIAL}
-\renewcommand{\articulorevista}{r-01-revistaciencia-v01-n01.md}
-\renewcommand{\articulofecha}{2026}
+\renewcommand{\articulorevista}{Conexiones: Revista Latinoamericana de Sociedad y Tecnología}
+\renewcommand{\articuloissne}{0327-7712}
+\renewcommand{\articulovolumen}{01}
+\renewcommand{\articulonumero}{01}
+\renewcommand{\articulofecha}{ 2026}
 
 \setcounter{page}{1}
 \thispagestyle{firstpage}
@@ -229,21 +233,47 @@ linktoc=all,breaklinks=True,bookmarksopen=True,bookmarksnumbered=True}
 {\sffamily\bfseries\Large\articulotitulo\par}%
 \end{minipage}\par
 \vspace{3mm}%
+\renewcommand{\articulotitulotrans}{The Outstanding Challenges of Digitalization in Latin America}
+\noindent\begin{minipage}[t]{\dimexpr\textwidth+\marginparsep+\marginparwidth\relax}%
+{\sffamily\itshape\normalsize\articulotitulotrans\par}%
+\end{minipage}\par
+\vspace{4mm}%
 
 % --- BLOQUE LATERAL DE METADATOS ---
 \begin{textblock*}{68mm}(\gbbloquex,92mm)
 {\setlength{\leftskip}{0pt}\setlength{\parindent}{0pt}%
 \noindent\begin{minipage}[t]{68mm}
 \sffamily\small\setlength{\parskip}{1pt}
-{\bfseries\color{azulrevista}Macedra Lucila}\par
+{\bfseries\color{azulrevista}Luciana Ferrer}\par
+Área de inverstigación en Sociedad Digital, Instituto Latinoamericano de Estudios sobre Tecnología y Sociedad, Ciudad Autónoma de Buenos Aires, Argentina\par
 \vspace{6pt}
 {\bfseries\color{azulrevista!70}Derechos de autor\'ia:}\par
-\textcopyright\ 2026 Lucila, M. Publicado por r-01-revistaciencia-v01-n01.md. \par\vspace{6pt}
-{\bfseries\color{azulrevista!70}Publicación:} 2026\par\vspace{6pt}
+\textcopyright\ 2026 Ferrer, L. Publicado por Conexiones: Revista Latinoamericana de Sociedad y Tecnología. Se permite el uso, distribución y reproducción sin restricciones, incluso con fines comerciales, siempre que se cite la obra original. (\href{https://creativecommons.org/licenses/by/4.0/}{https://creativecommons.org/licenses/by/4.0/})\par\vspace{6pt}
+{\bfseries\color{azulrevista!70}Publicación:} 2026, vol.~01, n\'um.~01\par\vspace{6pt}
+{\bfseries\color{azulrevista!70}Licencia:} Creative Commons Atribution 4.0 International (CC BY 4.0)\par
+{\scriptsize\texttt{\href{https://creativecommons.org/licenses/by/4.0/}{https://creativecommons.org/licenses/by/4.0/}}}\par
+\vspace{6pt}
+{\bfseries\color{azulrevista!70}Fechas}\par\vspace{2pt}
+Online: 10/06/2026\par
+\vspace{6pt}
 \end{minipage}%
 }% FIN GRUPO leftskip
 \end{textblock*}
 
+
+\begin{tcolorbox}[colback=brown!8!white,colframe=brown!8!white,boxrule=0pt,arc=2pt,left=4pt,right=4pt,top=3pt,bottom=3pt,before skip=4pt,after skip=4pt]
+\begin{otherlanguage}{spanish}
+\sffamily\small \textbf{Resumen:} El editorial analiza los desafíos pendientes de los procesos de digitalización en América Latina, destacando las persistentes brechas de acceso, uso y apropiación de las tecnologías digitales. Si bien la región ha experimentado avances significativos en materia de conectividad e incorporación de herramientas digitales en diversos ámbitos sociales, económicos y educativos, persisten desigualdades que limitan el aprovechamiento pleno de dichas transformaciones. El texto reflexiona sobre la necesidad de diseñar políticas públicas orientadas a la inclusión digital, el fortalecimiento de las capacidades tecnológicas y la reducción de las desigualdades territoriales y socioeconómicas. Asimismo, se examina el papel de las instituciones académicas, gubernamentales y sociales en la construcción de estrategias que promuevan una transformación digital más equitativa y sostenible en el contexto latinoamericano.
+\par\smallskip\noindent\textbf{Palabras clave:} Digitalización, America Latina, Inclusión digital, Brecha digital, Transformación digital
+\end{otherlanguage}
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=brown!8!white,colframe=brown!8!white,boxrule=0pt,arc=2pt,left=4pt,right=4pt,top=3pt,bottom=3pt,before skip=4pt,after skip=4pt]
+\begin{otherlanguage}{english}
+\sffamily\small \textbf{Abstract:} This editorial discusses the remaining challenges of digitalization processes in Latin America, highlighting persistent inequalities in access to, use of, and appropriation of digital technologies. Although the region has made significant progress in connectivity and the adoption of digital tools across social, economic, and educational sectors, important gaps continue to limit the full benefits of digital transformation. The text reflects on the need for public policies aimed at digital inclusion, technological capacity building, and the reduction of territorial and socioeconomic inequalities. It also examines the role of academic, governmental, and social institutions in promoting strategies that support a more equitable and sustainable digital transformation throughout Latin America.
+\par\smallskip\noindent\textbf{Keywords:} Digitalization, Latin America, Digital Inclusion, Digital Divide, Digital Transformation
+\end{otherlanguage}
+\end{tcolorbox}
 
 \bigskip
 \noindent\rule{\linewidth}{0.4pt}

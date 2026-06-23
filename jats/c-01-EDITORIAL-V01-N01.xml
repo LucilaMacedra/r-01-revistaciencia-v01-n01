@@ -6,11 +6,16 @@
          xml:lang="es">
    <front>
       <journal-meta>
+         <journal-id journal-id-type="publisher-id">0327-7712</journal-id>
          <journal-title-group>
-            <journal-title>r-01-revistaciencia-v01-n01.md</journal-title>
+            <journal-title>Conexiones: Revista Latinoamericana de Sociedad y Tecnología</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">Conex. Rev. Latinoam. Soc. Tecnol.</abbrev-journal-title>
          </journal-title-group>
+         <issn pub-type="epub">0327-7712</issn>
          <publisher>
-    </publisher>
+            <publisher-name>Ediciones Red Abierta</publisher-name>
+            <publisher-loc>Buenos Aires, Argentina</publisher-loc>
+         </publisher>
       </journal-meta>
       <article-meta>
          <article-categories>
@@ -20,21 +25,65 @@
          </article-categories>
          <title-group>
             <article-title>Las deudas pendientes de la digitalización en América Latina</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>The Outstanding Challenges of Digitalization in Latin America</trans-title>
+            </trans-title-group>
          </title-group>
          <contrib-group>
-            <contrib contrib-type="author" id="a1">
+            <contrib contrib-type="author" id="a4">
                <name>
-                  <surname>Lucila</surname>
-                  <given-names>Macedra</given-names>
+                  <surname>Ferrer</surname>
+                  <given-names>Luciana</given-names>
                </name>
+               <aff>
+                  <institution content-type="dept">Área de inverstigación en Sociedad Digital</institution>,
+          <institution>Instituto Latinoamericano de Estudios sobre Tecnología y Sociedad</institution>,
+          <city>Ciudad Autónoma de Buenos Aires</city>,
+          <country>Argentina</country>
+               </aff>
             </contrib>
          </contrib-group>
          <pub-date pub-type="epub-ppub">
             <year>2026</year>
+            <month>06</month>
+            <day>10</day>
          </pub-date>
+         <volume>01</volume>
+         <issue>01</issue>
+         <history>
+            <date date-type="pub">
+               <day>10</day>
+               <month>06</month>
+               <year>2026</year>
+            </date>
+         </history>
          <permissions>
             <copyright-year>2026</copyright-year>
+            <license license-type="open-access"
+                     xlink:href="https://creativecommons.org/licenses/by/4.0/">
+               <license-p>Creative Commons Atribution 4.0 International (CC BY 4.0)</license-p>
+            </license>
          </permissions>
+         <abstract xml:lang="es">
+            <p>El editorial analiza los desafíos pendientes de los procesos de digitalización en América Latina, destacando las persistentes brechas de acceso, uso y apropiación de las tecnologías digitales. Si bien la región ha experimentado avances significativos en materia de conectividad e incorporación de herramientas digitales en diversos ámbitos sociales, económicos y educativos, persisten desigualdades que limitan el aprovechamiento pleno de dichas transformaciones. El texto reflexiona sobre la necesidad de diseñar políticas públicas orientadas a la inclusión digital, el fortalecimiento de las capacidades tecnológicas y la reducción de las desigualdades territoriales y socioeconómicas. Asimismo, se examina el papel de las instituciones académicas, gubernamentales y sociales en la construcción de estrategias que promuevan una transformación digital más equitativa y sostenible en el contexto latinoamericano.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <p>This editorial discusses the remaining challenges of digitalization processes in Latin America, highlighting persistent inequalities in access to, use of, and appropriation of digital technologies. Although the region has made significant progress in connectivity and the adoption of digital tools across social, economic, and educational sectors, important gaps continue to limit the full benefits of digital transformation. The text reflects on the need for public policies aimed at digital inclusion, technological capacity building, and the reduction of territorial and socioeconomic inequalities. It also examines the role of academic, governmental, and social institutions in promoting strategies that support a more equitable and sustainable digital transformation throughout Latin America.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es" kwd-group-type="author-generated">
+            <kwd>Digitalización</kwd>
+            <kwd>America Latina</kwd>
+            <kwd>Inclusión digital</kwd>
+            <kwd>Brecha digital</kwd>
+            <kwd>Transformación digital</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en" kwd-group-type="author-generated">
+            <kwd>Digitalization</kwd>
+            <kwd>Latin America</kwd>
+            <kwd>Digital Inclusion</kwd>
+            <kwd>Digital Divide</kwd>
+            <kwd>Digital Transformation</kwd>
+         </kwd-group>
          <custom-meta-group>
             <custom-meta>
                <meta-name>xml-lang</meta-name>
