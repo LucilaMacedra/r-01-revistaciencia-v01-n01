@@ -24,8 +24,7 @@
 <sec id="condiciones-de-acceso-material">
   <title>Condiciones de acceso material</title>
   <p>La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas universidades. Se observan diferencias significativas tanto entre universidades como entre quintiles de ingreso.</p>
-  <p><bold>Tabla 1.</bold> Condiciones de acceso material por universidad y quintil de ingreso (en porcentajes)</p>
-  <table-wrap>
+  <table-wrap id="tbl-1">
     <table>
       <colgroup>
         <col width="41%" />
@@ -87,15 +86,19 @@
       </tbody>
     </table>
   </table-wrap>
-  <p><italic>Nota: Q1 = primer quintil de ingreso; Q5 = quinto quintil. Elaboración propia sobre datos de la encuesta.</italic></p>
   <p>Los datos revelan una pauta consistente: mientras que los estudiantes del quintil más alto presentan condiciones de acceso material prácticamente universales en ambas universidades, los del quintil más bajo enfrentan restricciones severas en todos los indicadores. La brecha es particularmente pronunciada en la disponibilidad de espacio privado de estudio y en la velocidad de conexión, dos factores que la literatura identifica como determinantes para el aprovechamiento académico de las herramientas digitales.</p>
 </sec>
 <sec id="habilidades-digitales-y-rendimiento-académico">
   <title>Habilidades digitales y rendimiento académico</title>
   <p>El análisis de regresión múltiple mostró que las habilidades digitales, medidas mediante la escala adaptada, constituyen el predictor más fuerte del rendimiento académico en el período analizado (β = 0,34; p &lt; 0,001), por encima del acceso material (β = 0,21; p &lt; 0,01) y del acceso motivacional (β = 0,18; p &lt; 0,01). Sin embargo, el análisis de mediación reveló que las habilidades digitales operan, en buena medida, como variable mediadora entre el acceso material y el rendimiento: los estudiantes con mejores condiciones materiales desarrollan habilidades digitales más sofisticadas, lo que a su vez se traduce en mejores resultados académicos.</p>
   <p>La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.</p>
-  <p><italic>[Insertar Figura 1 aquí]</italic></p>
-  <p><bold>Figura 1.</bold> Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; *p &lt; 0,05; **p &lt; 0,01; ***p &lt; 0,001.</p>
+  <boxed-text id="Fig01">
+    <fig>
+      <caption><p>UBA y UNAM</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="media/modelo-mediacion.png" />
+    </fig>
+    <p><bold>Figura 1.</bold> Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; *p &lt; 0,05; **p &lt; 0,01; ***p &lt; 0,001.</p>
+  </boxed-text>
 </sec>
 <sec id="experiencias-de-la-brecha-evidencia-cualitativa">
   <title>Experiencias de la brecha: evidencia cualitativa</title>
