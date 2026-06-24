@@ -57,6 +57,7 @@ La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas
   -------------------------------------- ------------ ------------ ------------- -------------
 
 *Nota: Q1 = primer quintil de ingreso; Q5 = quinto quintil. Elaboración propia sobre datos de la encuesta.*
+
 :::
 
 Los datos revelan una pauta consistente: mientras que los estudiantes del quintil más alto presentan condiciones de acceso material prácticamente universales en ambas universidades, los del quintil más bajo enfrentan restricciones severas en todos los indicadores. La brecha es particularmente pronunciada en la disponibilidad de espacio privado de estudio y en la velocidad de conexión, dos factores que la literatura identifica como determinantes para el aprovechamiento académico de las herramientas digitales.
@@ -72,6 +73,7 @@ La Figura 1 presenta el modelo de mediación estimado con las cargas estandariza
 ![UBA y UNAM](media/modelo-mediacion.png)
 
 **Figura 1.** Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; \*p \< 0,05; \*\*p \< 0,01; \*\*\*p \< 0,001.
+
 :::
 
 ## Experiencias de la brecha: evidencia cualitativa
@@ -91,13 +93,13 @@ El efecto mediador de las habilidades digitales sobre la relación entre acceso 
 
 La comparación entre la UBA y la UNAM muestra pautas notablemente similares en ambos contextos, lo que sugiere que la desigualdad digital en la educación superior responde a factores estructurales que trascienden las particularidades nacionales. En ambos casos, la variable con mayor poder discriminante es el origen socioeconómico del estudiante, que condiciona simultáneamente las distintas dimensiones del acceso digital. Este hallazgo es consistente con la tesis de la CEPAL sobre la reproducción digital de la "matriz de la desigualdad social" latinoamericana [@2566-CEPAL2021].
 
-:::
-
 ::: {.conclusions}
 ## Conclusiones
 
 Este estudio aporta evidencia empírica sobre la naturaleza multidimensional de la desigualdad digital en la educación superior latinoamericana. Los datos muestran que, incluso en universidades públicas con políticas activas de inclusión, las condiciones de acceso digital de los estudiantes reproducen las desigualdades socioeconómicas de origen y se traducen en disparidades académicas mensurables.
 
 Las implicancias para la política universitaria son claras: las estrategias de virtualización o hibridación de la enseñanza deben acompañarse de programas integrales que aborden simultáneamente la provisión de equipamiento, la conectividad, el desarrollo de habilidades digitales y la adaptación de las prácticas pedagógicas a contextos de acceso heterogéneo. De lo contrario, la digitalización de la educación superior corre el riesgo de convertirse en un mecanismo adicional de reproducción de la desigualdad.
+
+:::
 
 :::
