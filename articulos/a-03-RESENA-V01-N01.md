@@ -1,10 +1,9 @@
-# Reseña bibliográfica
+::: {.book-review}
+> Souza, Jessé. *A elite do atraso: da escravidão à Lava Jato*. São Paulo: Leya, 2017, 242 pp. ISBN 978-85-441-0408-1.
 
-Souza, Jessé. *A elite do atraso: da escravidão à Lava Jato*. São Paulo: Leya, 2017, 242 pp. ISBN 978-85-441-0408-1.
+## Presentación y contexto
 
-**Presentación y contexto**
-
-Jessé Souza es uno de los sociólogos brasileños más provocadores de su generación. Formado en Derecho y Sociología por la Universidad de Brasilia, doctorado en Heidelberg y con posdoctorados en la New School for Social Research de Nueva York, ha dedicado buena parte de su trayectoria a desmontar lo que considera los mitos fundacionales de la interpretación de Brasil como nación. *A elite do atraso*, publicado originalmente en 2017 en el contexto de la crisis político-institucional que desembocó en el *impeachment* de Dilma Rousseff, es quizás su obra de mayor repercusión pública: un libro que trascendió el circuito académico para instalarse en el debate político brasileño e incluso inspirar el desfile de la escuela de samba Paraíso do Tuiuti en el carnaval de Río de Janeiro de 2018.
+Jessé Souza es uno de los sociólogos brasileños más provocadores de su generación. Formado en Derecho y Sociología por la Universidad de Brasilia, doctorado en Heidelberg y con posdoctorados en la New School for Social Research de Nueva York, ha dedicado buena parte de su trayectoria a desmontar lo que considera los mitos fundacionales de la interpretación de Brasil como nación. *A elite do atraso*, publicado originalmente en 2017 en el marco de la crisis político-institucional que desembocó en el *impeachment* de Dilma Rousseff, es quizás su obra de mayor repercusión pública: un libro que trascendió el circuito académico para instalarse en el debate político brasileño e incluso inspirar el desfile de la escuela de samba Paraíso do Tuiuti en el carnaval de Río de Janeiro de 2018.
 
 El argumento central del libro puede resumirse en una operación de desplazamiento: donde la tradición dominante del pensamiento social brasileño ubicó al patrimonialismo heredado de Portugal como la clave explicativa de los males nacionales ---la corrupción, el atraso institucional, la ineficiencia del Estado---, Souza propone que la verdadera matriz de la desigualdad brasileña es la esclavitud y su legado persistente. No se trata, advierte el autor, de una tesis meramente historiográfica: lo que está en juego es la estructura de legitimación que permite a las élites brasileñas contemporáneas reproducir privilegios mientras trasladan la responsabilidad del "atraso" al Estado y, por extensión, a las clases populares que dependen de él.
 
@@ -18,6 +17,8 @@ Desde una perspectiva latinoamericana más amplia, el libro plantea preguntas qu
 
 El libro no está exento de debilidades. La crítica a Freyre, Buarque de Holanda y Faoro, aunque estimulante, resulta por momentos esquemática: al subordinar la lectura de estos autores a la demostración de su tesis, Souza tiende a simplificar obras de considerable complejidad. La categoría de "ralé", por su parte, si bien tiene poder descriptivo, plantea problemas analíticos que el libro no resuelve del todo: ¿se trata de una clase en sentido estricto o de una condición social? ¿Cuáles son sus fronteras empíricas? Finalmente, el tono polémico que recorre toda la obra ---y que sin duda contribuyó a su éxito editorial--- puede resultar excesivo para un público académico habituado a la argumentación matizada.
 
-**Conclusión**
+## Conclusión
 
-Estas objeciones, sin embargo, no disminuyen el valor del libro como intervención intelectual. *A elite do atraso* cumple con la función que toda buena obra de ciencias sociales debería cumplir: obligar a repensar categorías que se daban por sentadas. Para los lectores de habla hispana, el texto ofrece además una oportunidad de reflexionar sobre las propias tradiciones interpretativas nacionales y sobre el modo en que las élites de cada país han construido relatos funcionales a la reproducción de sus privilegios. En un momento en que las derechas radicales avanzan en toda la región apelando a discursos que combinan la meritocracia individual con el desprecio hacia los sectores populares, la lectura de Souza resulta no solo pertinente sino urgente.
+Estas objeciones, sin embargo, no disminuyen el valor del libro como intervención intelectual. *A elite do atraso* cumple con la función que toda buena obra de ciencias sociales debería cumplir: obligar a repensar categorías que se daban por sentadas. Para los lectores de habla hispana, el texto ofrece además una oportunidad de reflexionar sobre las propias tradiciones interpretativas nacionales y el modo en que las élites de cada país han construido relatos funcionales a la reproducción de sus privilegios. En un momento en que las derechas radicales avanzan en toda la región apelando a discursos que combinan la meritocracia individual con el desprecio hacia los sectores populares, la lectura de Souza resulta no solo pertinente sino urgente.
+
+:::

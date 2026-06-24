@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<front xmlns:xlink="http://www.w3.org/1999/xlink">
+  <journal-meta>
+    <journal-id journal-id-type="publisher-id">0327-7712</journal-id>
+    <journal-title-group>
+      <journal-title>Conexiones: Revista Latinoamericana de Sociedad y Tecnología</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Conex. Rev. Latinoam. Soc. Tecnol.</abbrev-journal-title>
+    </journal-title-group>
+    <issn pub-type="epub">0327-7712</issn>
+    <publisher>
+      <publisher-name>Ediciones Red Abierta</publisher-name>
+      <publisher-loc>Buenos Aires, Argentina</publisher-loc>
+    </publisher>
+  </journal-meta>
+  <article-meta>
+    <article-categories>
+      <subj-group subj-group-type="heading">
+        <subject>book-review</subject>
+      </subj-group>
+    </article-categories>
+    <title-group>
+      <article-title>Reseña del libro A elite do atraso: da escravidão à Lava Jato</article-title>
+      <trans-title-group xml:lang="en">
+        <trans-title>Book Review of The Elite of Backwardness: From Slavery to Operation Car Wash</trans-title>
+      </trans-title-group>
+    </title-group>
+    <contrib-group>
+      <contrib contrib-type="author" id="a3">
+        <name>
+          <surname>Almeida Costa</surname>
+          <given-names>Thiago</given-names>
+        </name>
+        <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6893-211X</contrib-id>
+        <aff>
+          <institution content-type="dept">Departamento de Sociología</institution>,
+          <institution>Programa de Pós-Graduação em Sociologia</institution>,
+          <city>Belo Horizonte</city>,
+          <country>Brasil</country>
+        </aff>
+      </contrib>
+    </contrib-group>
+    <pub-date pub-type="epub-ppub">
+      <year>2026</year>
+      <month>06</month>
+      <day>10</day>
+    </pub-date>
+    <volume>01</volume>
+    <issue>01</issue>
+    <history>
+      <date date-type="pub">
+        <day>10</day>
+        <month>06</month>
+        <year>2026</year>
+      </date>
+    </history>
+    <permissions>
+      <copyright-year>2026</copyright-year>
+      <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+        <license-p>Creative Commons Atribution 4.0 International (CC BY 4.0)</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>xml-lang</meta-name>
+        <meta-value>es</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </article-meta>
+</front>
