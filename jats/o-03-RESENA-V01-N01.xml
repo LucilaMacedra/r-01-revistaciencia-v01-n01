@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/5.3.1"
+           xmlns:fr="http://www.crossref.org/fundref.xsd"
+           xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
+           version="5.3.1">
+   <head>
+      <doi_batch_id>gbpublisher-03-RESENA-V01-N01-20260624214813</doi_batch_id>
+      <timestamp>20260624214813</timestamp>
+      <depositor>
+         <depositor_name>Ediciones Red Abierta</depositor_name>
+         <email_address>edredabierta@ilesyt.com</email_address>
+      </depositor>
+      <registrant>Instituto Latinoamericano de Estudios sobre Sociedad y Tecnología</registrant>
+   </head>
+   <body>
+      <journal>
+         <journal_metadata language="es" reference_distribution_opts="any">
+            <full_title>Conexiones: Revista Latinoamericana de Sociedad y Tecnología</full_title>
+            <abbrev_title>Conex. Rev. Latinoam. Soc. Tecnol.</abbrev_title>
+            <issn media_type="electronic">0327-7712</issn>
+         </journal_metadata>
+         <journal_issue>
+            <publication_date media_type="online">
+               <month>06</month>
+               <day>10</day>
+               <year>2026</year>
+            </publication_date>
+            <journal_volume>
+               <volume>01</volume>
+            </journal_volume>
+            <issue>01</issue>
+         </journal_issue>
+         <journal_article language="es"
+                          publication_type="full_text"
+                          reference_distribution_opts="any">
+            <titles>
+               <title>Reseña del libro A elite do atraso: da escravidão à Lava Jato</title>
+               <original_language_title language="en">Book Review of The Elite of Backwardness: From Slavery to Operation Car Wash</original_language_title>
+            </titles>
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Thiago</given_name>
+                  <surname>Almeida Costa</surname>
+                  <ORCID authenticated="true">https://orcid.org/0000-0001-6893-211X</ORCID>
+               </person_name>
+            </contributors>
+            <publication_date media_type="online">
+               <month>06</month>
+               <day>10</day>
+               <year>2026</year>
+            </publication_date>
+            <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
+               <free_to_read/>
+               <license_ref applies_to="vor">https://creativecommons.org/licenses/by/4.0/</license_ref>
+            </program>
+            <doi_data>
+               <doi>10.22296/2317-1529.2018v20n3p591</doi>
+               <resource content_version="vor" mime_type="text/html">https://pt.wikipedia.org/wiki/A_Elite_do_Atraso</resource>
+            </doi_data>
+         </journal_article>
+      </journal>
+   </body>
+</doi_batch>

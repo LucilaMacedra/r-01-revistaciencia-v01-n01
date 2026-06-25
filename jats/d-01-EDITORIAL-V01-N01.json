@@ -1,0 +1,38 @@
+{
+  "bibjson": {
+    "title": "Las deudas pendientes de la digitalización en América Latina",
+    "abstract": "El editorial analiza los desafíos pendientes de los procesos de digitalización en América Latina, destacando las persistentes brechas de acceso, uso y apropiación de las tecnologías digitales. Si bien la región ha experimentado avances significativos en materia de conectividad e incorporación de herramientas digitales en diversos ámbitos sociales, económicos y educativos, persisten desigualdades que limitan el aprovechamiento pleno de dichas transformaciones. El texto reflexiona sobre la necesidad de diseñar políticas públicas orientadas a la inclusión digital, el fortalecimiento de las capacidades tecnológicas y la reducción de las desigualdades territoriales y socioeconómicas. Asimismo, se examina el papel de las instituciones académicas, gubernamentales y sociales en la construcción de estrategias que promuevan una transformación digital más equitativa y sostenible en el contexto latinoamericano.",
+    "year": "2026",
+    "month": "junio",
+    "keywords": [
+      "Digitalización",
+      "America Latina",
+      "Inclusión digital",
+      "Brecha digital",
+      "Transformación digital"
+    ],
+    "author": [
+      {
+        "name": "Ferrer, Luciana",
+        "orcid_id": "https://orcid.org/0000-0002-7996-9660"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "0327-7712"},
+      {"type": "doi", "id": "10.2139/ssrn.2852942"}
+    ],
+    "journal": {
+      "title": "Conexiones: Revista Latinoamericana de Sociedad y Tecnología",
+      "publisher": "Ediciones Red Abierta",
+      "volume": "01",
+      "number": "01"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://www.cepal.org/es/publicaciones/48486-impacto-covid-19-la-digitalizacion-america-latina",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}

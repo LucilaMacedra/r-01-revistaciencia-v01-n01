@@ -1,0 +1,30 @@
+{
+  "bibjson": {
+    "title": "Reseña del libro A elite do atraso: da escravidão à Lava Jato",
+    "year": "2026",
+    "month": "junio",
+    "author": [
+      {
+        "name": "Almeida Costa, Thiago",
+        "orcid_id": "https://orcid.org/0000-0001-6893-211X"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "0327-7712"},
+      {"type": "doi", "id": "10.22296/2317-1529.2018v20n3p591"}
+    ],
+    "journal": {
+      "title": "Conexiones: Revista Latinoamericana de Sociedad y Tecnología",
+      "publisher": "Ediciones Red Abierta",
+      "volume": "01",
+      "number": "01"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://pt.wikipedia.org/wiki/A_Elite_do_Atraso",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}

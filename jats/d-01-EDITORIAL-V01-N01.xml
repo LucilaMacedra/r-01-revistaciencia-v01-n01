@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ARCHIVO GENERADO AUTOMÁTICAMENTE POR GBPUBLISHER -->
+<!-- Validar contra: ~/.gbpublisher/schemas/doajArticles.xsd -->
+<records>
+   <record>
+      <language>spa</language>
+      <publisher>Ediciones Red Abierta</publisher>
+      <journalTitle>Conexiones: Revista Latinoamericana de Sociedad y Tecnología</journalTitle>
+      <eissn>0327-7712</eissn>
+      <publicationDate>2026-06-10</publicationDate>
+      <volume>01</volume>
+      <issue>01</issue>
+      <doi>10.2139/ssrn.2852942</doi>
+      <documentType>editorial</documentType>
+      <title language="spa">Las deudas pendientes de la digitalización en América Latina</title>
+      <authors>
+         <author>
+            <name>Ferrer, Luciana</name>
+            <affiliationId>1</affiliationId>
+            <orcid_id>https://orcid.org/0000-0002-7996-9660</orcid_id>
+         </author>
+      </authors>
+      <affiliationsList>
+         <affiliationName affiliationId="1">Área de inverstigación en Sociedad Digital , Instituto Latinoamericano de Estudios sobre Tecnología y Sociedad</affiliationName>
+      </affiliationsList>
+      <abstract language="spa">El editorial analiza los desafíos pendientes de los procesos de digitalización en América Latina, destacando las persistentes brechas de acceso, uso y apropiación de las tecnologías digitales. Si bien la región ha experimentado avances significativos en materia de conectividad e incorporación de herramientas digitales en diversos ámbitos sociales, económicos y educativos, persisten desigualdades que limitan el aprovechamiento pleno de dichas transformaciones. El texto reflexiona sobre la necesidad de diseñar políticas públicas orientadas a la inclusión digital, el fortalecimiento de las capacidades tecnológicas y la reducción de las desigualdades territoriales y socioeconómicas. Asimismo, se examina el papel de las instituciones académicas, gubernamentales y sociales en la construcción de estrategias que promuevan una transformación digital más equitativa y sostenible en el contexto latinoamericano.</abstract>
+      <fullTextUrl format="text/html">https://www.cepal.org/es/publicaciones/48486-impacto-covid-19-la-digitalizacion-america-latina</fullTextUrl>
+      <keywords language="spa">
+         <keyword>Digitalización</keyword>
+         <keyword>America Latina</keyword>
+         <keyword>Inclusión digital</keyword>
+         <keyword>Brecha digital</keyword>
+         <keyword>Transformación digital</keyword>
+      </keywords>
+   </record>
+</records>
