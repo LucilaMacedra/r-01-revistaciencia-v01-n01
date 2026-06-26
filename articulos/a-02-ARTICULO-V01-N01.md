@@ -1,4 +1,5 @@
 ::: {.intro}
+
 ## Introducción
 
 La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico ---la disponibilidad de dispositivos y conectividad---, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías  [@2565-HARGITTAI2002;@2562-WARSCHAUER2004].
@@ -10,6 +11,7 @@ El presente estudio analiza la relación entre las condiciones de acceso digital
 :::
 
 ::: {.methods}
+
 ## De la brecha de acceso a la desigualdad digital
 
 La noción de "brecha digital" surgió en los años noventa asociada a la preocupación por las disparidades en el acceso a computadoras e Internet entre distintos segmentos de la población. En su formulación más temprana, el problema se concebía en términos binarios: conectados y no conectados. Sin embargo, Hargittai [-@2565-HARGITTAI2002] introdujo el concepto de "brecha digital de segundo nivel" para dar cuenta de las diferencias en habilidades y patrones de uso entre quienes ya tenían acceso a la red. Esta distinción abrió un campo de investigación que desplazó el foco desde la infraestructura hacia las prácticas.
@@ -33,6 +35,7 @@ Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acces
 :::
 
 ::: {.results}
+
 ## Condiciones de acceso material
 
 La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas universidades. Se observan diferencias significativas tanto entre universidades como entre quintiles de ingreso.
@@ -70,6 +73,7 @@ La Figura 1 presenta el modelo de mediación estimado con las cargas estandariza
 
 
 :::{.figure #Fig01}
+
 ![UBA y UNAM](media/modelo-mediacion.png)
 
 **Figura 1.** Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; \*p \< 0,05; \*\*p \< 0,01; \*\*\*p \< 0,001.
@@ -85,6 +89,7 @@ Otro hallazgo relevante fue la relación entre el tipo de dispositivo y las prá
 :::
 
 ::: {.discussion}
+
 ## Discusión
 
 Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk [-@2563-VANDIJK2020] para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad ---que, aun siendo desigual, ha mejorado significativamente--- sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.
@@ -94,6 +99,7 @@ El efecto mediador de las habilidades digitales sobre la relación entre acceso 
 La comparación entre la UBA y la UNAM muestra pautas notablemente similares en ambos contextos, lo que sugiere que la desigualdad digital en la educación superior responde a factores estructurales que trascienden las particularidades nacionales. En ambos casos, la variable con mayor poder discriminante es el origen socioeconómico del estudiante, que condiciona simultáneamente las distintas dimensiones del acceso digital. Este hallazgo es consistente con la tesis de la CEPAL sobre la reproducción digital de la "matriz de la desigualdad social" latinoamericana [@2566-CEPAL2021].
 
 ::: {.conclusions}
+
 ## Conclusiones
 
 Este estudio aporta evidencia empírica sobre la naturaleza multidimensional de la desigualdad digital en la educación superior latinoamericana. Los datos muestran que, incluso en universidades públicas con políticas activas de inclusión, las condiciones de acceso digital de los estudiantes reproducen las desigualdades socioeconómicas de origen y se traducen en disparidades académicas mensurables.

@@ -1,0 +1,40 @@
+PAQUETE SCIELO — construido con gbpublisher
+============================================================
+Generado: 2026-06-26 19:50:31
+
+DATOS DEL ARTÍCULO
+------------------------------------------------------------
+Título:    Reseña del libro A elite do atraso: da escravidão à Lava Jato
+Autor(es): Almeida Costa, Thiago
+Archivo:   03-RESENA-V01-N01
+
+DATOS DE LA REVISTA
+------------------------------------------------------------
+Acrónimo SciELO: HOLA
+ISSN:            0327-7712
+URL canónica:    https://pt.wikipedia.org/wiki/A_Elite_do_Atraso
+
+NOMENCLATURA SCIELO
+------------------------------------------------------------
+PID: 0327-7712-HOLA-01-01-00001
+
+CONTENIDO DEL ZIP
+------------------------------------------------------------
+  0327-7712-HOLA-01-01-00001.xml — XML SciELO PS 1.9
+  0327-7712-HOLA-01-01-00001.pdf — PDF final
+
+VALIDACIÓN PACKTOOLS STYLECHECKER
+------------------------------------------------------------
+  Estado:       NO VÁLIDO
+  DTD errors:   presentes
+  Style errors: 0
+
+OBSERVACIONES
+------------------------------------------------------------
+  ADVERTENCIA: El artículo no tiene imágenes referenciadas.
+
+PRÓXIMOS PASOS
+------------------------------------------------------------
+  1. Corregir los errores indicados arriba
+  2. Regenerar el paquete desde gbpublisher
+  3. Enviar el ZIP a scielo@scielo.org

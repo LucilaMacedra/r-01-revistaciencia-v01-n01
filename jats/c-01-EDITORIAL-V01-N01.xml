@@ -52,7 +52,24 @@
          </pub-date>
          <volume>01</volume>
          <issue>01</issue>
+         <fpage>1</fpage>
+         <lpage>2</lpage>
          <history>
+            <date date-type="received">
+               <day>10</day>
+               <month>06</month>
+               <year>2026</year>
+            </date>
+            <date date-type="rev-recd">
+               <day>10</day>
+               <month>06</month>
+               <year>2026</year>
+            </date>
+            <date date-type="accepted">
+               <day>10</day>
+               <month>06</month>
+               <year>2026</year>
+            </date>
             <date date-type="pub">
                <day>10</day>
                <month>06</month>

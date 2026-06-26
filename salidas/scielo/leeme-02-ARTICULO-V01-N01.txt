@@ -1,0 +1,40 @@
+PAQUETE SCIELO — construido con gbpublisher
+============================================================
+Generado: 2026-06-26 19:48:03
+
+DATOS DEL ARTÍCULO
+------------------------------------------------------------
+Título:    Desigualdad digital y rendimiento académico en la educación superior: un estudio comparativo en universidades públicas de Argentina y México
+Autor(es): Suárez, Valentina; Hernández Flores, Ricardo
+Archivo:   02-ARTICULO-V01-N01
+
+DATOS DE LA REVISTA
+------------------------------------------------------------
+Acrónimo SciELO: HOLA
+ISSN:            0327-7712
+URL canónica:    https://www.redalyc.org/journal/4136/413677448001/html/
+
+NOMENCLATURA SCIELO
+------------------------------------------------------------
+PID: 0327-7712-HOLA-01-01-00001
+
+CONTENIDO DEL ZIP
+------------------------------------------------------------
+  0327-7712-HOLA-01-01-00001.xml — XML SciELO PS 1.9
+  0327-7712-HOLA-01-01-00001.pdf — PDF final
+  0327-7712-HOLA-01-01-00001-gf01.png — Imagen 1
+
+VALIDACIÓN PACKTOOLS STYLECHECKER
+------------------------------------------------------------
+  Estado:       NO VÁLIDO
+  DTD errors:   presentes
+  Style errors: 0
+
+OBSERVACIONES
+------------------------------------------------------------
+
+PRÓXIMOS PASOS
+------------------------------------------------------------
+  1. Corregir los errores indicados arriba
+  2. Regenerar el paquete desde gbpublisher
+  3. Enviar el ZIP a scielo@scielo.org

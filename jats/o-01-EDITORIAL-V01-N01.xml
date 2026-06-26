@@ -7,8 +7,8 @@
            xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
            version="5.3.1">
    <head>
-      <doi_batch_id>gbpublisher-01-EDITORIAL-V01-N01-20260624213822</doi_batch_id>
-      <timestamp>20260624213822</timestamp>
+      <doi_batch_id>gbpublisher-01-EDITORIAL-V01-N01-20260626184928</doi_batch_id>
+      <timestamp>20260626184928</timestamp>
       <depositor>
          <depositor_name>Ediciones Red Abierta</depositor_name>
          <email_address>edredabierta@ilesyt.com</email_address>
@@ -58,6 +58,10 @@
                <day>10</day>
                <year>2026</year>
             </publication_date>
+            <pages>
+               <first_page>1</first_page>
+               <last_page>2</last_page>
+            </pages>
             <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
                <free_to_read/>
                <license_ref applies_to="vor">https://creativecommons.org/licenses/by/4.0/</license_ref>
