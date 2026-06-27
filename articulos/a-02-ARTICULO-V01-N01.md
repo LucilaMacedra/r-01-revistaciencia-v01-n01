@@ -41,6 +41,7 @@ Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acces
 La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas universidades. Se observan diferencias significativas tanto entre universidades como entre quintiles de ingreso.
 
 ::: {.table #TablaNumero1}
+
 **Tabla 1.** Condiciones de acceso material por universidad y quintil de ingreso (en porcentajes)
 
   -------------------------------------- ------------ ------------ ------------- -------------
